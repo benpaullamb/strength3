@@ -1,0 +1,19 @@
+{
+  "dayA": {
+    "label": "Day A",
+    "exercises": [
+      { "name": "Squats", "weight": 97.5 },
+      { "name": "Bench Press", "weight": 90 },
+      { "name": "Deadlift", "weight": 110 },
+      { "name": "Rows", "weight": 70 }
+    ]
+  },
+  "dayB": {
+    "label": "Day B",
+    "exercises": [
+      { "name": "Squats", "weight": 97.5 },
+      { "name": "Press", "weight": 55 },
+      { "name": "Chin-ups", "weight": 20 }
+    ]
+  }
+}
